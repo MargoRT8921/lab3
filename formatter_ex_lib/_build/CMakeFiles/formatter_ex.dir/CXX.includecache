@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/morrison/TIMP03/formatter_ex_lib/formatter_ex.cpp
+formatter_ex.h
+/home/morrison/TIMP03/formatter_ex_lib/formatter_ex.h
+formatter.h
+/home/morrison/TIMP03/formatter_ex_lib/formatter.h
+
+/home/morrison/TIMP03/formatter_ex_lib/formatter_ex.h
+string
+-
+iostream
+-
+
+/home/morrison/TIMP03/formatter_lib/formatter.h
+string
+-
+
