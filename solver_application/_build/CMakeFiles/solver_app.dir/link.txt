@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/solver_app.dir/equation.cpp.o  -o solver_app  /home/morrison/TIMP03/formatter_lib/_build/libformatter.a /home/morrison/TIMP03/formatter_ex_lib/_build/libformatter_ex.a /home/morrison/TIMP03/solver_lib/_build/libsolver_lib.a 
