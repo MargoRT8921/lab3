@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/morrison/TIMP03/formatter_lib/formatter.cpp
+formatter.h
+/home/morrison/TIMP03/formatter_lib/formatter.h
+
+/home/morrison/TIMP03/formatter_lib/formatter.h
+string
+-
+
